@@ -1,0 +1,12 @@
+// include some definitions needed for woring with standard input/output (streams)
+#include <iostream>
+
+
+// the entrypoin of the application
+int main()
+{
+        
+    std::cout << "Hello world!";
+
+    return 0;
+}
